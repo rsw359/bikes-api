@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-[Github](https://github.com/rsw359/snacks_crud)
+[Github](https://github.com/rsw359/bikes-api/blob/main/README.md)
 
 ### To run this application
 
